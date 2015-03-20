@@ -7,6 +7,7 @@
 
 #ifndef FUZZY_ANDMIN_H_
 #define FUZZY_ANDMIN_H_
+#include "../core/Expression.h"
 
 namespace fuzzy{
 	template<class T>
@@ -33,6 +34,7 @@ namespace fuzzy{
 		else
 			return right;
 	}
+}
 
 
 
