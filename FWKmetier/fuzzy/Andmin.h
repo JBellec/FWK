@@ -7,7 +7,7 @@
 
 #ifndef FUZZY_ANDMIN_H_
 #define FUZZY_ANDMIN_H_
-#include "../core/Expression.h"
+#include "../FWKmetier/core/Expression.h"
 
 namespace fuzzy{
 	template<class T>
